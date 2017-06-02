@@ -1,5 +1,5 @@
 package com.ubb.gps.account.model;
-
+#imports
 import javax.persistence.*;
 import java.util.Set;
 
