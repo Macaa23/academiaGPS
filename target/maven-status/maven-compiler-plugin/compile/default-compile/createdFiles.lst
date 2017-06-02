@@ -1,0 +1,12 @@
+com\ubb\gps\account\service\UserServiceImpl.class
+com\ubb\gps\account\validator\GetPropertyValues.class
+com\ubb\gps\account\web\UserController.class
+com\ubb\gps\account\repository\UserRepository.class
+com\ubb\gps\account\model\Role.class
+com\ubb\gps\account\repository\RoleRepository.class
+com\ubb\gps\account\model\User.class
+com\ubb\gps\account\service\SecurityService.class
+com\ubb\gps\account\service\UserDetailsServiceImpl.class
+com\ubb\gps\account\validator\UserValidator.class
+com\ubb\gps\account\service\UserService.class
+com\ubb\gps\account\service\SecurityServiceImpl.class
