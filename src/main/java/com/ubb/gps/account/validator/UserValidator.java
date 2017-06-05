@@ -1,4 +1,4 @@
-package com.ubb.gps.account.validator;
+/*package com.ubb.gps.account.validator;
 
 
 import com.ubb.gps.account.model.User;
@@ -59,4 +59,4 @@ public class UserValidator implements Validator {
             errors.rejectValue("passwordConfirm", "Diff.userForm.passwordConfirm");
         }
     }
-}
+}*/

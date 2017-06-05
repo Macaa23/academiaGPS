@@ -1,4 +1,4 @@
-package com.ubb.gps.account.service;
+/*package com.ubb.gps.account.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,4 +31,4 @@ public class UserDetailsServiceImpl implements UserDetailsService{
 
         return new org.springframework.security.core.userdetails.User(user.getUsername(), user.getPassword(), grantedAuthorities);
     }
-}
+}*/

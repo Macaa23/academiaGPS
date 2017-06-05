@@ -31,7 +31,7 @@
             <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
         </form>
 
-        <h3>Bienvenido(a) ${pageContext.request.userPrincipal.name} | <a onclick="document.forms['logoutForm'].submit()">Cerrar sesión</a></h3>
+        <h3>Bienvenido(a) administradora  ${pageContext.request.userPrincipal.name} | <a onclick="document.forms['logoutForm'].submit()">Cerrar sesión</a></h3>
 
     </c:if>
 

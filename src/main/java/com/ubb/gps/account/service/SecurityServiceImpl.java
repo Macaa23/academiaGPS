@@ -1,4 +1,4 @@
-package com.ubb.gps.account.service;
+/*package com.ubb.gps.account.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -42,4 +42,4 @@ public class SecurityServiceImpl implements SecurityService{
             logger.debug(String.format("Auto login %s successfully!", username));
         }
     }
-}
+}*/

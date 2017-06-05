@@ -1,5 +1,4 @@
-package com.ubb.gps.account.model;
-#imports
+/*package com.ubb.gps.account.model;
 import javax.persistence.*;
 import java.util.Set;
 
@@ -36,4 +35,4 @@ public class Role {
     public void setUsers(Set<User> users) {
         this.users = users;
     }
-}
+}*/

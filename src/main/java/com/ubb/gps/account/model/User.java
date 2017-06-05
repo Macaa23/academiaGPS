@@ -3,20 +3,20 @@ package com.ubb.gps.account.model;
 import javax.persistence.*;
 import java.util.Set;
 
-@Entity
-@Table(name = "user")
+//@Entity
+//@Table(name = "user")
 public class User {
-    private Long id;
+    //private Long id;
     private String username;
     
-    private String RUT;
+    /*private String RUT;
     private String Nombre;
     private String edad;
     private String genero;
-    private String telefono;
+    private String telefono;*/
     
     private String password;
-    private String passwordConfirm;
+    /*private String passwordConfirm;
     private Set<Role> roles;
 
     @Id
@@ -67,7 +67,7 @@ public class User {
 
 	public void setTelefono(String telefono) {
 		this.telefono = telefono;
-	}
+	}*/
 
 	public String getUsername() {
         return username;
@@ -85,7 +85,7 @@ public class User {
         this.password = password;
     }
 
-    @Transient
+    /*@Transient
     public String getPasswordConfirm() {
         return passwordConfirm;
     }
@@ -102,5 +102,5 @@ public class User {
 
     public void setRoles(Set<Role> roles) {
         this.roles = roles;
-    }
+    }*/
 }
